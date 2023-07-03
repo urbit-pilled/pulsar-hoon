@@ -1,0 +1,14 @@
+{
+  "name": "language-hoon-ts",
+  "version": "0.1.0",
+  "description": "A short description of your language package",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/urbit-pilled/language-hoon-ts",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
