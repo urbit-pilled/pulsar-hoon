@@ -1,4 +1,4 @@
-(number) @number
+(number) @constant
 
 (string) @string
 
