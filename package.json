@@ -1,7 +1,7 @@
 {
   "name": "language-hoon-ts",
-  "version": "0.1.4",
-  "description": "A short description of your language package",
+  "version": "0.1.5",
+  "description": "Modern tree-sitter package for the Urbit programming language Hoon",
   "keywords": [
     "language",
     "grammar"
